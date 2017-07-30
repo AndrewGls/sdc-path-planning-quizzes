@@ -1,8 +1,8 @@
-NaiveBayesPrediction/.vs
-NaiveBayesPrediction/x64
-NaiveBayesPrediction/Debug
+*/.vs
+*/Debug
+*/x64
+*/__pycache__
+
 nd013_pred_data
 
-BehaviorPlanning/.vs
-BehaviorPlanning/x64
-BehaviorPlanning/Debug
+Eigen
